@@ -1,6 +1,6 @@
 # Configure Nodemailer with Gmail
 
-![Project Image](project-image-url)
+![Project Image](public/img.png)
 
 > Configuring Nodemailer a package used in Node JS to be able to send automated mails, is quite a task in Gmail. This Repo feature an easy way to configure GMail Auth for Nodemailer that worked for me.
 
